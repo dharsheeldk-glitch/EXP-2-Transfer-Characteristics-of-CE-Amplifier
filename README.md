@@ -22,11 +22,12 @@ ii) Set IB and vary VCE in regular intervals of steps and note down the correspo
 iii) Plot the graph: VCE vs IC for a constant IB.
 
 circuit diagram:
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/91ad2342-bbf1-4e21-8846-599cc7712885" />
 
 
 simulation result:
 
-
+<img width="1600" height="871" alt="new epi 2 ed" src="https://github.com/user-attachments/assets/b0dd0e60-f03e-4898-b6e6-c3610c3c100f" />
 
 Result:
 Thus the Transistor characteristics of CE amplifier was determined by simulation using LTspice.
